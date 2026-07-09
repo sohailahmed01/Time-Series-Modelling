@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+statsmodels>=0.14
+scikit-learn>=1.2
+tensorflow>=2.12
+holidays>=0.40
+requests>=2.28
